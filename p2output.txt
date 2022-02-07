@@ -1,1 +1,4 @@
-
+Enter the side of the triangle: 1
+Enter the side of the triangle: 2
+Enter the side of the triangle: 3
+The triangle with sides 1, 2, 3 is scalene
