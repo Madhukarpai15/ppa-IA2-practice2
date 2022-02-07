@@ -1,1 +1,6 @@
+Enter the number: 5
+5 is not a composite number
+
+Enter the number: 8
+8 is a composite number 
 
